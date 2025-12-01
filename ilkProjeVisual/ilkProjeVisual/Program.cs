@@ -1,0 +1,5 @@
+﻿Console.WriteLine("İlk adımımız");
+
+     
+  
+

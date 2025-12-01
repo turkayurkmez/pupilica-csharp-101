@@ -1,0 +1,14 @@
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\bin\Debug\net10.0\ilkProjemiz.exe
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\bin\Debug\net10.0\ilkProjemiz.deps.json
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\bin\Debug\net10.0\ilkProjemiz.runtimeconfig.json
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\bin\Debug\net10.0\ilkProjemiz.dll
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\bin\Debug\net10.0\ilkProjemiz.pdb
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\obj\Debug\net10.0\ilkProjemiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\obj\Debug\net10.0\ilkProjemiz.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\obj\Debug\net10.0\ilkProjemiz.AssemblyInfo.cs
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\obj\Debug\net10.0\ilkProjemiz.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\obj\Debug\net10.0\ilkProjemiz.dll
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\obj\Debug\net10.0\refint\ilkProjemiz.dll
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\obj\Debug\net10.0\ilkProjemiz.pdb
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\obj\Debug\net10.0\ilkProjemiz.genruntimeconfig.cache
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjemiz\obj\Debug\net10.0\ref\ilkProjemiz.dll

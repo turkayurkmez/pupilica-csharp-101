@@ -1,0 +1,14 @@
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\bin\Debug\net10.0\ilkProjeVisual.exe
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\bin\Debug\net10.0\ilkProjeVisual.deps.json
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\bin\Debug\net10.0\ilkProjeVisual.runtimeconfig.json
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\bin\Debug\net10.0\ilkProjeVisual.dll
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\bin\Debug\net10.0\ilkProjeVisual.pdb
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\obj\Debug\net10.0\ilkProjeVisual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\obj\Debug\net10.0\ilkProjeVisual.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\obj\Debug\net10.0\ilkProjeVisual.AssemblyInfo.cs
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\obj\Debug\net10.0\ilkProjeVisual.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\obj\Debug\net10.0\ilkProjeVisual.dll
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\obj\Debug\net10.0\refint\ilkProjeVisual.dll
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\obj\Debug\net10.0\ilkProjeVisual.pdb
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\obj\Debug\net10.0\ilkProjeVisual.genruntimeconfig.cache
+C:\Users\turka\source\repos\Pupilica\C#101\ilkProjeVisual\ilkProjeVisual\obj\Debug\net10.0\ref\ilkProjeVisual.dll
