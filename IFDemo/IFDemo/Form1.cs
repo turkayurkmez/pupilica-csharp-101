@@ -7,9 +7,36 @@ namespace IFDemo
             InitializeComponent();
         }
 
+        bool zamanlayiciCalisiyorMu = false;
         private void buttonBaslat_Click(object sender, EventArgs e)
         {
-            timerSlot.Start();
+
+            if (zamanlayiciCalisiyorMu)          
+            {              
+
+                timerSlot.Stop();
+
+                if (labelSlot1.Text == labelSlot2.Text && labelSlot1.Text == labelSlot3.Text)
+                {
+                    MessageBox.Show("kazandýnýz!");
+
+                }
+                else if (labelSlot1.Text == labelSlot2.Text || labelSlot1.Text == labelSlot3.Text || labelSlot2.Text == labelSlot3.Text)
+                {
+                    MessageBox.Show("Bir hak daha verildi");
+                }
+                else
+                {
+                    MessageBox.Show("kaybettiniz");
+                }
+            }
+            else
+            {
+                timerSlot.Start();
+
+            }
+            zamanlayiciCalisiyorMu = !zamanlayiciCalisiyorMu;
+
         }
 
         private void timerSlot_Tick(object sender, EventArgs e)

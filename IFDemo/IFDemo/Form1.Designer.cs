@@ -33,7 +33,6 @@
             labelSlot2 = new Label();
             labelSlot3 = new Label();
             buttonBaslat = new Button();
-            buttonDurdur = new Button();
             timerSlot = new System.Windows.Forms.Timer(components);
             SuspendLayout();
             // 
@@ -72,23 +71,13 @@
             // 
             // buttonBaslat
             // 
-            buttonBaslat.Location = new Point(288, 308);
+            buttonBaslat.Location = new Point(292, 325);
             buttonBaslat.Name = "buttonBaslat";
             buttonBaslat.Size = new Size(184, 29);
             buttonBaslat.TabIndex = 3;
             buttonBaslat.Text = "Başlat";
             buttonBaslat.UseVisualStyleBackColor = true;
             buttonBaslat.Click += buttonBaslat_Click;
-            // 
-            // buttonDurdur
-            // 
-            buttonDurdur.Location = new Point(288, 343);
-            buttonDurdur.Name = "buttonDurdur";
-            buttonDurdur.Size = new Size(184, 29);
-            buttonDurdur.TabIndex = 4;
-            buttonDurdur.Text = "Durdur";
-            buttonDurdur.UseVisualStyleBackColor = true;
-            buttonDurdur.Click += buttonDurdur_Click;
             // 
             // timerSlot
             // 
@@ -100,7 +89,6 @@
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(buttonDurdur);
             Controls.Add(buttonBaslat);
             Controls.Add(labelSlot3);
             Controls.Add(labelSlot2);
@@ -116,7 +104,6 @@
         private Label labelSlot2;
         private Label labelSlot3;
         private Button buttonBaslat;
-        private Button buttonDurdur;
         private System.Windows.Forms.Timer timerSlot;
     }
 }
