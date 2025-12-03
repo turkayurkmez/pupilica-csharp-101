@@ -40,7 +40,7 @@ if (yas >= 20)
 {
     Console.WriteLine("Filme girebilirsiniz");
 }
-else if(yas <18 & ebeveynIzni)
+else if(yas <18 && ebeveynIzni )
 {
     Console.WriteLine("Ebeveyn izni var. Girebilirsiniz...");
 }
@@ -48,4 +48,22 @@ else
 {
     Console.WriteLine("Filme giremezsiniz");
 }
+
+
+Console.WriteLine("Kullanıcı adı girin:");
+string kullaniciAdi = Console.ReadLine();
+Console.WriteLine("Şifrenizi girin:");
+string sifre = Console.ReadLine();
+
+if (kullaniciAdi == "turkay" && sifre =="123" ) 
+{
+    Console.WriteLine("Hoş geldin Türkay");
+}
+else
+{
+    Console.WriteLine("Hatalı giriş");
+}
+
+
+
 
