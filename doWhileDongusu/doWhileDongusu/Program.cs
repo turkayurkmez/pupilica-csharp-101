@@ -12,25 +12,31 @@ Console.WriteLine("Hello, World!");
  */
 
 Random random = new Random();
-int tutulanSayi = random.Next(1000, 10000);
-int denemeSayisi = 0;
+
 do
 {
-    Console.WriteLine("4 basamaklı Sayıyı tahmin edin:");
-    int tahmin = Convert.ToInt32(Console.ReadLine());
-    denemeSayisi++;
-    if (tahmin > tutulanSayi)
+    int tutulanSayi = random.Next(100, 1000);
+    int denemeSayisi = 0;
+    do
     {
-        Console.WriteLine("AŞAĞI");
+        Console.WriteLine("3 basamaklı Sayıyı tahmin edin:");
+        int tahmin = Convert.ToInt32(Console.ReadLine());
+        denemeSayisi++;
+        if (tahmin > tutulanSayi)
+        {
+            Console.WriteLine("AŞAĞI");
 
-    }
-    else if (tahmin < tutulanSayi)
-    {
-        Console.WriteLine("YUKARI");
-    }
-    else
-    {
-        Console.WriteLine($" {denemeSayisi} denemede BİLDİNİZ");
-        break;
-    }
-} while (true);
+        }
+        else if (tahmin < tutulanSayi)
+        {
+            Console.WriteLine("YUKARI");
+        }
+        else
+        {
+            Console.WriteLine($" {denemeSayisi} denemede BİLDİNİZ");
+            break;
+        }
+    } while (true);
+    Console.WriteLine("Bir kez daha oynamak ister misniz (E / H)"); 
+} while (Console.ReadLine()=="E");
+
