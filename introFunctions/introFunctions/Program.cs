@@ -27,7 +27,7 @@
             Console.WriteLine(sayi);
             //Türkay
             Console.WriteLine(sifrele("Türkay"));
-            //Uvslmz
+            //Uvslbz
         }
 
         static void UyariMesaji(string mesaj)
